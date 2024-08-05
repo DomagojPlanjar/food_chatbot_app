@@ -1,0 +1,41 @@
+{
+  "id": "d6d0b7e4-fb1d-4470-badc-00e0f548a3b8",
+  "name": "new.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok, starting a new order. You can say things like \"I want two pizzas and one cheeseburger\". Make sure to specify a quantity for every food item! Also, we have only the following items on our menu: Pizza, Cheeseburger, Caesar Salad, Chicken Alfredo Pasta, Fish Tacos, Vegetable Stir-fry, Beef Burrito, Grilled Cheese Sandwich, Chocolate Brownie",
+            "Starting new order. Specify food items and quantities. For example, you can say, \"I would like to order two pizzas and one cheeseburger. Also, we have only the following items on our menu: Pizza, Cheeseburger, Caesar Salad, Chicken Alfredo Pasta, Fish Tacos, Vegetable Stir-fry, Beef Burrito, Grilled Cheese Sandwich, Chocolate Brownie."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GastroGourmet Web App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="hero">
+            <h1>Welcome to GastroGourmet!</h1>
+            <p>Discover our delicious menu and place orders through our chat!</p>
+        </div>
+    </header>
+    <main>
+        <section id="menu">
+            <h2>Our Menu</h2>
+            <ul id="menu-list">
+                <!-- Menu items will be injected here by JavaScript -->
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Phone: (123) 456-7890</p>
+            <p>Email: info@restaurant.com</p>
+            <p>Address: Ulica Dobre Hrane 10, Zagreb, 10000</p>
+        </section>
+    </main>
+    <button id="chatbot-button">
+        <span>Chat with us</span>
+    </button>
+    <section id="chatbot">
+        <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/b101b00e-cadd-4e50-8b33-b7e860b76f65"></iframe>
+    </section>
+    <footer>
+        <p>&copy; 2024 GastroGourmet. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

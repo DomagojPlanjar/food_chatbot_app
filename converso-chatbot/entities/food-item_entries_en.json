@@ -1,0 +1,80 @@
+[
+  {
+    "value": "Pizza",
+    "synonyms": [
+      "Pizza",
+      "pizzas",
+      "cheese pizza",
+      "margharita"
+    ]
+  },
+  {
+    "value": "Cheeseburger",
+    "synonyms": [
+      "Cheeseburger",
+      "cheese",
+      "burger"
+    ]
+  },
+  {
+    "value": "Caesar Salad",
+    "synonyms": [
+      "Ceasar Salad",
+      "salad",
+      "ceasars",
+      "caesar"
+    ]
+  },
+  {
+    "value": "Chicken Alfredo Pasta",
+    "synonyms": [
+      "Chicken alfredo pasta",
+      "chicken pasta",
+      "chicken alfredo",
+      "pasta",
+      "chicken"
+    ]
+  },
+  {
+    "value": "Fish Tacos",
+    "synonyms": [
+      "Fish Tacos",
+      "tacos",
+      "fish"
+    ]
+  },
+  {
+    "value": "Vegetable Stir-fry",
+    "synonyms": [
+      "Vegetable Stir-fry",
+      "stir-fry",
+      "stir fry",
+      "fry vegetables"
+    ]
+  },
+  {
+    "value": "Beef Burrito",
+    "synonyms": [
+      "Beef Burrito",
+      "burrito",
+      "beef",
+      "beef tortilla"
+    ]
+  },
+  {
+    "value": "Grilled Cheese Sandwich",
+    "synonyms": [
+      "Grilled Cheese Sandwich",
+      "grilled cheese",
+      "cheese sandwich"
+    ]
+  },
+  {
+    "value": "Chocolate Brownie",
+    "synonyms": [
+      "Chocolate Brownie",
+      "brownie",
+      "chocolate dessert"
+    ]
+  }
+]
