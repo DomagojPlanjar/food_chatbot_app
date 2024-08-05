@@ -80,5 +80,5 @@ You can test your chatbot in test console on the right side.
 
 ## Usage
 Open the frontend HTML file index.html in your web browser. 
-
+You can start interacting with chatbot and test its functionality.
 
