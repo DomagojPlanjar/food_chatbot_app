@@ -2,6 +2,7 @@ import mysql.connector
 
 global cnx
 # Database config information
+# Change according to your values
 cnx = mysql.connector.connect(
     host="localhost",
     user="root",
