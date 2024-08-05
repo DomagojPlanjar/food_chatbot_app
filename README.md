@@ -26,13 +26,14 @@ A comprehensive food delivery chatbot application that integrates a FastAPI back
    ```sh
    git clone https://github.com/DomagojPlanjar/food_chatbot_app.git
    cd food_chatbot_app
-
+   ```
 2. **Backend Setup**
 
 Navigate to the 'backend' directory.
 
   ```sh
   cd backend
+  ```
 
 
    
