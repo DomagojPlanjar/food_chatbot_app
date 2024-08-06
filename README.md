@@ -69,6 +69,7 @@ Place ngrok.exe in your backend folder and run this command in new terminal:
   ngrok http 8000
   ```
 6. **Set up the Chatbot**
+
 Log in to Dialogflow Console then go to Dialogflow ES and create a new agent. Now go to
 agent settings and open Export and Import tab. Click on Restore from ZIP and upload zipped
 'converso-chatbot' folder. Dialogflow will process the file and import the configurations
